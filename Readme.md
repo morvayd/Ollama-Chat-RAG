@@ -1,4 +1,4 @@
-# GPU ollama RAG.py
+# GPU Ollama using (Retrieval Augmented Generation)
 This Python script ([`GPU-ollama-RAG.py`](https://github.com/morvayd/Ollama-docling-RAG/tree/main)) is a **Retrieval-Augmented Generation (RAG) chatbot** that uses local Ollama AI models.
 
 **Main Features:**
